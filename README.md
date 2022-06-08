@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Muhammad Yusuf
-- 👀 I’m interested in Machine Learning and AI
 - ⚡ I’m currently learning Machine Learning from Bangkit program
 - 🌱 I'm a student at Dian Nuswantoro University
 
